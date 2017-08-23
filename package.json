@@ -1,0 +1,15 @@
+{
+  "name": "mongodb_chat",
+  "version": "1.0.0",
+  "description": "chat test using sockets and mongodb",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "socket.io": "^2.0.3"
+  }
+}
